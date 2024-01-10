@@ -17,7 +17,7 @@ Candy Bot is your Discord server's ultimate guardian, equipped with proactive au
 
 ## Getting Started
 
-1. Invite Candy Bot to your server.
+1. [Invite Candy Bot](https://discord.com/oauth2/authorize?client_id=1120526687373889536&scope=bot&permissions=432584125521) to your server.
 2. Set up roles using `..ignore @role`.
 3. Enjoy a safer and more secure Discord experience!
 
