@@ -1,4 +1,4 @@
-# Candy Bot 🍭🤖
+# **Candy Bot 🍭**
 
 Candy Bot is your Discord server's ultimate guardian, equipped with proactive auto-moderation to ensure a secure and enjoyable environment.
 
