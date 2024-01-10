@@ -1,6 +1,8 @@
+![Banner](banner.png)
+
 # Terms of Service
 
-*Last Updated: [Date]*
+*Last Updated: [11 Jan 2024]*
 
 **1. Acceptance of Terms**
 
@@ -24,7 +26,7 @@ Candy Bot does not collect or store any user data. It operates solely within the
 
 **6. Support**
 
-Support for Candy Bot is available through our [Support Server](https://example.com/support). We will make efforts to address issues promptly.
+Support for Candy Bot is available through our [Support Server](https://discord.com/invite/qB2NVgC8jy). We will make efforts to address issues promptly.
 
 **7. Changes to Terms**
 
