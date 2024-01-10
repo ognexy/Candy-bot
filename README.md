@@ -21,6 +21,9 @@ Candy Bot is your Discord server's ultimate guardian, equipped with proactive au
 2. Set up roles using `..ignore @role`.
 3. Enjoy a safer and more secure Discord experience!
 
+## Privacy & Policy
+- [![GitHub](https://img.shields.io/badge/GitHub-View%20File-blue?style=flat-square&logo=github)](https://github.com/ognexy/Candy-bot/blob/main/privacy%26policy.md)
+
 ## License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
