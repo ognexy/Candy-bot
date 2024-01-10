@@ -30,14 +30,8 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ## Support
 
-For help or inquiries, visit our [Support Server](https://discord.com/invite/qB2NVgC8jy).
+For help or inquiries, visit our [![Discord](https://img.shields.io/discord/1120511503938891941?label=Discord&logo=discord&style=flat-square)](https://discord.com/invite/qB2NVgC8jy).
 
 ## Vote
 
-Show your support by voting for us on [Top.gg](https://top.gg/bot/1120526687373889536).
-<br>
-<div align="center">
-
-[![Discord](https://img.shields.io/discord/1120511503938891941?label=Discord&logo=discord&style=flat-square)](https://discord.com/invite/qB2NVgC8jy)
-[![Top.gg](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Top.gg&query=%24.monthly_points&url=https%3A%2F%2Ftop.gg%2Fapi%2Fbots%2F1120526687373889536%2Fstats)](https://top.gg/bot/1120526687373889536)
-</div>
+Show your support by voting for us on [![Top.gg](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Top.gg&query=%24.monthly_points&url=https%3A%2F%2Ftop.gg%2Fapi%2Fbots%2F1120526687373889536%2Fstats)](https://top.gg/bot/1120526687373889536).
