@@ -40,6 +40,9 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 For help or inquiries, visit our [![Discord](https://img.shields.io/discord/1120511503938891941?label=Discord&logo=discord&style=flat-square)](https://discord.com/invite/qB2NVgC8jy).
 
-## Vote
+## Vote us on Top.gg
 
-Show your support by voting for us on [![Top.gg](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Top.gg&query=%24.monthly_points&url=https%3A%2F%2Ftop.gg%2Fapi%2Fbots%2F1120526687373889536%2Fstats)](https://top.gg/bot/1120526687373889536).
+
+<a href="https://top.gg/bot/1120526687373889536">
+  <img src="https://top.gg/api/widget/1120526687373889536.svg">
+</a>
