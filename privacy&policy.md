@@ -2,35 +2,47 @@
 
 # **Privacy & Policy**
 
-*Last Updated: [11 Jan 2024]*
+*Last Updated: [13 Jan 2024]*
 
-**1. Introduction**
+# Candy Bot Privacy Policy
 
-Candy Bot prioritizes user privacy and operates under a strict no-user-data policy. This Privacy Policy outlines our commitment to maintaining the confidentiality and security of any information related to users.
+This Privacy Policy outlines the information collected, used, and shared by Candy Bot in connection with its usage on Discord servers. By inviting Candy Bot to your server, you agree to the terms outlined in this policy.
 
-**2. Data Collection and Usage**
+## Information Collected
 
-We do not collect, store, or process any user data. Candy Bot operates solely within the Discord environment, and all interactions are confined to the platform.
+Candy Bot does not collect personal information about individual users. It only processes data necessary for its functionality within the Discord platform.
 
-**3. Server Interaction**
+- **Server Settings:** Candy Bot stores server-specific settings, such as ignored roles, prohibited words, and timeout duration, to provide customized moderation features.
 
-Candy Bot's functionality is limited to the moderation and commands set by server administrators. It does not access or store any personal information about users.
+- **Prohibited Words:** Words added to the custom-prohibited list by server administrators are stored temporarily for moderation purposes.
 
-**4. Cookies and Tracking**
+- **Command Usage:** Candy Bot may log command usage to enhance user experience and troubleshoot issues.
 
-Candy Bot does not use cookies or engage in any tracking mechanisms. We do not employ analytics tools to monitor user behavior.
+## Usage of Information
 
-**5. Third-Party Services**
+Candy Bot uses the collected information for the following purposes:
 
-Candy Bot does not integrate with or utilize any third-party services that may compromise user privacy. All interactions occur within the Discord platform.
+- **Auto-Moderation:** To enforce server-specific rules and maintain a safe environment by removing messages containing prohibited words.
 
-**6. Security Measures**
+- **User Notifications:** To inform users via direct message about the deletion of their messages due to inappropriate content.
 
-While we do not handle user data, we remain committed to the security of our bot and regularly update and maintain its infrastructure to protect against potential vulnerabilities.
+- **Server Customization:** To provide server-specific settings and customization options.
 
-**7. Changes to Privacy Policy**
+## Information Sharing
 
-Any updates or changes to our Privacy Policy will be communicated through our Discord server. Users are encouraged to review the policy periodically.
+Candy Bot does not share collected information with third parties. The data is used solely for the purpose of providing moderation services within the Discord platform.
+
+## Security
+
+Candy Bot takes reasonable measures to ensure the security of the data it processes. However, no method of transmission or electronic storage is completely secure, and Candy Bot cannot guarantee absolute security.
+
+## Changes to the Privacy Policy
+
+Candy Bot may update this Privacy Policy from time to time. Server administrators will be notified of significant changes, and the updated policy will be available on the [GitHub repository](https://github.com/ognexy/Candy-bot/blob/main/privacy%26policy.md).
+
+## Contact
+
+If you have any questions or concerns regarding this Privacy Policy, please contact us via the [support server](https://discord.com/invite/qB2NVgC8jy).
 
 **8. Contact Information**
 
