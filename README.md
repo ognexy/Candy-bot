@@ -5,7 +5,7 @@ Candy Bot is your Discord server's ultimate guardian, equipped with proactive au
 ## Features
 
 - **Proactive Moderation:** Swiftly removes messages containing prohibited words.
-- **User Control:** Grant specific roles the privilege to bypass moderation using `..ignore @role`.
+- **User Control:** Grant specific roles the privilege to bypass moderation using `..ignore add/remove @role`.
 - **Informative Deletions:** Users receive a DM explaining why their message was deleted.
 - **Community Awareness:** Enable chat announce to alert all members when a user triggers auto-moderation.
 
@@ -13,7 +13,7 @@ Candy Bot is your Discord server's ultimate guardian, equipped with proactive au
 
 - `..help`: Access the comprehensive command list.
 - `..ping`: Check Candy Bot's responsiveness.
-- `..ignore @role`: Grant specific roles the privilege to bypass auto-moderation.
+- `..ignore add/remove @role`: Grant specific roles the privilege to bypass auto-moderation.
 - `..automod (on/off)`: Enable or disable the auto-moderation feature.
 - `..word add/remove (word)`: Add or remove a word from the custom-prohibited list.
 - `..set-duration (duration)`: Set the timeout duration for user timeouts (in seconds).
