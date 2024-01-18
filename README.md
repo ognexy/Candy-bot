@@ -11,7 +11,7 @@ Additionally, you can set an appeal URL using ".set-from <url>," and if a user g
 ## New Features
 
 - **Proactive Moderation:** Swiftly removes messages containing prohibited words.
-- **User Control:** Grant specific roles the privilege to bypass moderation using `..ignore add/remove @role`.
+- **User Control:** Grant specific roles the privilege to bypass moderation using `.ignore add/remove @role`.
 - **Informative Deletions:** Users receive a DM explaining why their message was deleted.
 - **Community Awareness:** Enable chat announce to alert all members when a user triggers auto-moderation.
 
@@ -52,7 +52,7 @@ Additionally, you can set an appeal URL using ".set-from <url>," and if a user g
 ## Getting Started
 
 1. [Invite Candy Bot](https://discord.com/oauth2/authorize/?permissions=-200803074&scope=bot&client_id=1120526687373889536) to your server.
-2. Set up roles using `..ignore add @role`.
+2. Set up roles using `.ignore add @role`.
 3. Customize the server settings with other available commands like `.automod on` and `set-duration (seconds)` etc.
 4. Enjoy a safer and more secure Discord experience!
 
