@@ -125,7 +125,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ## Support
 
-For help or inquiries, visit our [![Discord](https://img.shields.io/discord/1120511503938891941?label=Discord&logo=discord&style=flat-square)](https://discord.com/invite/qB2NVgC8jy).
+[![Discord](https://img.shields.io/discord/1120511503938891941?label=Discord&logo=discord&style=flat-square)](https://discord.com/invite/qB2NVgC8jy).
 
 ## Vote us on Top.gg
 
