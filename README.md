@@ -15,6 +15,9 @@ Additionally, you can set an appeal URL using ".set-from <url>," and if a user g
 - **Informative Deletions:** Users receive a DM explaining why their message was deleted.
 - **Community Awareness:** Enable chat announce to alert all members when a user triggers auto-moderation.
 
+- **.ask**
+  > Chat with Ai.
+  > 
 - **.automod (on/off)**
   > Turns on/off automod. (see `devmsg` before using this command)
 
@@ -60,6 +63,9 @@ Additionally, you can set an appeal URL using ".set-from <url>," and if a user g
 
 **.ignorerole add/remove (role)**
 > Ignores users with the specified role.
+
+**.ask**
+> Chat with AI.
 
 **.automod (on/off)**
 > Turns on/off automod. (see `devmsg` before using this command)
