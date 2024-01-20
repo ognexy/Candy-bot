@@ -112,6 +112,9 @@ Additionally, you can set an appeal URL using ".set-from <url>," and if a user g
 **.devmsg**
 > Displays a special message for server administrators.
 
+## Status
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/108jx.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
 ## Privacy & Policy
 
 - [![GitHub](https://img.shields.io/badge/GitHub-View%20File-blue?style=flat-square&logo=github)](https://github.com/ognexy/Candy-bot/blob/main/privacy%26policy.md)
