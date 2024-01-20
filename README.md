@@ -9,7 +9,7 @@ Introducing Candy-bot v2! We've enhanced it with new commands and features. Now,
 Additionally, you can set an appeal URL using ".set-from <url>," and if a user gets banned, Candy-bot will DM them with Embed components. Earn coins by voting for the bot on top.gg, and once you have 100 coins, you can buy premium.
 
 ## New Features
-
+![Candy-bot Banner](ask.gif)
 - **Proactive Moderation:** Swiftly removes messages containing prohibited words.
 - **User Control:** Grant specific roles the privilege to bypass moderation using `.ignore add/remove @role`.
 - **Informative Deletions:** Users receive a DM explaining why their message was deleted.
