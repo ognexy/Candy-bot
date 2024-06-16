@@ -113,7 +113,7 @@ Additionally, you can set an appeal URL using ".set-from <url>," and if a user g
 > Displays a special message for server administrators.
 
 ## Status
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/108jx.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/1driu.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 ## Privacy & Policy
 
